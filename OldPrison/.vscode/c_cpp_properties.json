@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "OldPrisonEditor Editor Win64 Development (OldPrison)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_OldPrison.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

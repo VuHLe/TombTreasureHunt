@@ -1,0 +1,97 @@
+[
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\Grabber.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\Grabber.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\MovingWall.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\MovingWall.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrison.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrison.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrison.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrisonCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrisonCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrisonGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrisonGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrisonProjectile.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\OldPrisonProjectile.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\TP_PickUpComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\TP_PickUpComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\TP_WeaponComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\TP_WeaponComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\TriggerComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison\\TriggerComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\.vscode\\compileCommands_Default\\OldPrison.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
