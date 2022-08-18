@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\triggercomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\oldprisoneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\development\\oldprison\\definitions.oldprison.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\triggercomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\movingwall.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\movingwall.generated.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

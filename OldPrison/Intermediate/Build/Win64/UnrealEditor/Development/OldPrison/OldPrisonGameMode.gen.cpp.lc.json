@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\oldprisongamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\oldprisoneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\development\\oldprison\\definitions.oldprison.h",
+            "d:\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\oldprisongamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\oldprisongamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

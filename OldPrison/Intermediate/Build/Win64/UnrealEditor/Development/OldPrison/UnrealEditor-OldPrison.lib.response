@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OldPrison.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\OldPrisonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\Grabber.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\MovingWall.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrison.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrisonCharacter.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrisonGameMode.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrisonProjectile.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\TP_PickUpComponent.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\TP_WeaponComponent.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\TriggerComponent.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\Grabber.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\MovingWall.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrison.init.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrisonCharacter.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrisonGameMode.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\OldPrisonProjectile.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\TriggerComponent.gen.cpp.obj"
+"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\Default.rc2.res"
+/OUT:"C:\Users\Vu Le\Desktop\UE5 learning\OldPrison\OldPrison\Intermediate\Build\Win64\UnrealEditor\Development\OldPrison\UnrealEditor-OldPrison.lib"

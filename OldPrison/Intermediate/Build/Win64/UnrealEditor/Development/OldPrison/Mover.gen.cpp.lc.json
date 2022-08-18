@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\mover.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\oldprisoneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\development\\oldprison\\definitions.oldprison.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\mover.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\mover.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

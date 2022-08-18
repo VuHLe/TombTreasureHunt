@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\oldprison.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\oldprisoneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\development\\oldprison\\definitions.oldprison.h",
+            "d:\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\oldprison.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

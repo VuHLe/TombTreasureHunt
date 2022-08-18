@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\oldprisonprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\oldprisoneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\development\\oldprison\\definitions.oldprison.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\source\\oldprison\\oldprisonprojectile.h",
+            "c:\\users\\vu le\\desktop\\ue5 learning\\oldprison\\oldprison\\intermediate\\build\\win64\\unrealeditor\\inc\\oldprison\\oldprisonprojectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

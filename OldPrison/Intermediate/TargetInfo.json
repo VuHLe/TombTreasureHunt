@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OldPrison",
+			"Path": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrison.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OldPrisonEditor",
+			"Path": "C:\\Users\\Vu Le\\Desktop\\UE5 learning\\OldPrison\\OldPrison\\Source\\OldPrisonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
